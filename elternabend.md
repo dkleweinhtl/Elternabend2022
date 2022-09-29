@@ -7,18 +7,13 @@ Jahrgangsvorstand: DI (FH) David Klewein, MBA (d.klewein@htl-leonding.ac.at)
 Tel: 0660 / 5031675  
 Sprechstunde: tbd, Zi. 216
 
-## Kontakdaten Eltern
-[https://bit.ly/3BVm1YG](https://bit.ly/3BVm1YG)
+## Education Fileserver - Edufs
 
-## Edufs
-
-Unter folgendem Link finden sie unter anderem Zugang zum elektronischen Klassenbuch, dem Informationssystem LeoWiki und dem Zugang zu Moodle. Bitte verwenden sie die Zugangsdaten ihres Kindes um sich bei den Seiten anmelden zu können.  
-[edufs](https://edufs.edu.htl-leonding.ac.at/)
-
+[Hier](https://edufs.edu.htl-leonding.ac.at/) finden sie unter anderem Zugang zum elektronischen Klassenbuch, dem Informationssystem LeoWiki und dem Zugang zu Moodle. Bitte verwenden sie die Zugangsdaten ihres Kindes um sich bei den Seiten anmelden zu können.  
 
 ## Vorläufiger Terminplan
 
-https://leowiki.htl-leonding.ac.at/doku.php?id=org:termine-2023
+[Terminplan auf LeoWiki](https://leowiki.htl-leonding.ac.at/doku.php?id=org:termine-2023)
 
 ## Tests und Schularbeiten
 
@@ -39,10 +34,9 @@ Tests und Schularbeiten sind in [WebUntis](https://mese.webuntis.com/WebUntis/#/
 | Test        | 2. Physik - Test | 24.01.2023 | 0NWP   |
 | Schularbeit | 2. Schularbeit   | 01.02.2023 | 1AM    |
 
+## Gegenstände und Lehrkräfte
 
-## Gegenstände und Lehrkräfte 
-
-Die Gegenstände und Lehrkräfte entnehmen sie bitte aus dem elektronischen Klassenbuch ([WebUntis](https://mese.webuntis.com/WebUntis/#/basic/login))
+Die Gegenstände und Lehrkräfte finden sie in [Webunits dem elektronischen Klassenbuch](https://mese.webuntis.com/WebUntis/#/basic/login)
 
 ## Stundenplan
 
@@ -70,9 +64,7 @@ abzustimmen.
 
 - Am ersten Tag der Abwesenheit bitte vor 8:00 Uhr im Sekretariat anrufen oder in [WebUntis](https://mese.webuntis.com/WebUntis/#/basic/login) eintragen.
 - Vorlage der Entschuldigungen ist eine zeitnahe Bringschuld des/der Schüler/in. Innerhalb von
-einer Woche nach der Rückkehr in die Schule müssen die Abwesenheitszeiten in die
-Entschuldigungsliste eingetragen, von den Eltern unterschrieben und dem KV vorgelegt
-werden.
+einer Woche nach der Rückkehr in die Schule müssen die Abwesenheitszeiten in die Entschuldigungsliste eingetragen, von den Eltern unterschrieben und dem KV vorgelegt werden.
 
 ### Unentschuldigte Fehlstunden und Verhaltensnote
 
@@ -149,7 +141,6 @@ Das ist die Norm. Andere Stufen stellen Abweichungen dar.
 Fernbleiben bis zu einem Tag: KV
 Fernbleiben bis zu einer Woche: Schulleiter
 Sonst: Landesschulrat
-
 
 ## Schule und Unterricht
 

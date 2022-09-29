@@ -12,7 +12,7 @@ Sprechstunde: tbd, Zi. 216
 
 ## Edufs
 
-Unter folgendem Link finden sie unter anderem Zugang zum elektronischen Klassenbuch, dem Informationssystem LeoWiki und dem Zugang zu Moodle. Bitte verwenden sie die Zugangsdaten ihres Kindes um sich bei den Seiten anmelden zu können.
+Unter folgendem Link finden sie unter anderem Zugang zum elektronischen Klassenbuch, dem Informationssystem LeoWiki und dem Zugang zu Moodle. Bitte verwenden sie die Zugangsdaten ihres Kindes um sich bei den Seiten anmelden zu können.  
 [edufs](https://edufs.edu.htl-leonding.ac.at/)
 
 

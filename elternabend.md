@@ -4,7 +4,11 @@
 # Elternabend - 1DHIF - 2022/23
 
 Jahrgangsvorstand: DI (FH) David Klewein, MBA (d.klewein@htl-leonding.ac.at)  
+Tel: 0660 / 5031675  
 Sprechstunde: tbd, Zi. 216
+
+## Kontakdaten Eltern
+[https://bit.ly/3BVm1YG](https://bit.ly/3BVm1YG)
 
 ## Edufs
 
@@ -130,6 +134,14 @@ Das ist die Norm. Andere Stufen stellen Abweichungen dar.
 
 - Besonders schwerwiegende Verstöße gegen die unter "Wenig Zufriedenstellend" genannten Regeln.
 
+#### Geplante Abwesenheiten
+
+(Schnuppertage, Sportveranstaltungen etc.) sind im vorhinein zu genehmigen:
+Fernbleiben bis zu einem Tag: KV
+Fernbleiben bis zu einer Woche: Schulleiter
+Sonst: Landesschulrat
+
+
 ## Schule und Unterricht
 
 - Bitte nutzen Sie die Sprechstunden. Ab Mitte Oktober sind die aktuellen Sprechstundenzeiten
@@ -159,3 +171,19 @@ Bleiben Sie bitte mit uns in Kontakt. Wenn Ihnen etwas auffällt, Sie sich ärge
 - Höflichkeit und wertschätzender Umgang.
 - Ordnung in der Klasse.
 - Positives Lernklima und Klassengemeinschaft.
+
+## Ferialpraxis
+
+- Mind. 2 x 4 Wochen
+- Ab dritten Jahrgang - Tbd??
+- Voraussetzung für Matura!
+- Nachweis der Praxiszeiten:
+Vor Dienstantritt Formular im Sekretariat abholen
+- Tätigkeitsprotokoll führen
+- Am Ende Bestätigung der Firma einholen
+- Bestätigung der Anrechenbarkeit des Praktikums beim KV einholen
+- Freistellungen in der letzten Schulwoche auf Antrag möglich
+
+## Wahl der Elternvertreter
+
+- Freiwillige willkommen! :-)

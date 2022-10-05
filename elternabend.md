@@ -186,4 +186,4 @@ Vor Dienstantritt Formular im Sekretariat abholen
 
 ## Wahl der Elternvertreter
 
-- Freiwillige willkommen! :-)
+- Freiwillige willkommen! :smiley:

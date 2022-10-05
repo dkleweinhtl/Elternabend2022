@@ -175,7 +175,7 @@ Bleiben Sie bitte mit uns in Kontakt. Wenn Ihnen etwas auffällt, Sie sich ärge
 ## Ferialpraxis
 
 - Mind. 2 x 4 Wochen
-- Ab dritten Jahrgang - Tbd??
+- Ab dritten Jahrgang
 - Voraussetzung für Matura!
 - Nachweis der Praxiszeiten:
 Vor Dienstantritt Formular im Sekretariat abholen

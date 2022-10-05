@@ -5,7 +5,7 @@
 
 Jahrgangsvorstand: DI (FH) David Klewein, MBA (d.klewein@htl-leonding.ac.at)  
 Tel: 0660 / 5031675  
-Sprechstunde: tbd, Zi. 216
+Sprechstunde: Di, 10:00 bis 10:50, Zi. 216
 
 ## Education Fileserver - Edufs
 

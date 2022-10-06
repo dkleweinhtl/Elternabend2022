@@ -207,3 +207,7 @@ Vor Dienstantritt Formular im Sekretariat abholen
 ## Wahl der Elternvertreter
 
 - Freiwillige willkommen! :smiley:
+
+## Schließfächer
+
+Schließfächer können unter [www.schliessfaecher.at](www.schliessfaecher.at) reserviert werden.

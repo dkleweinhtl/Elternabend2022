@@ -36,7 +36,27 @@ Tests und Schularbeiten sind in [WebUntis](https://mese.webuntis.com/WebUntis/#/
 
 ## Gegenstände und Lehrkräfte
 
-Die Gegenstände und Lehrkräfte finden sie in [Webunits dem elektronischen Klassenbuch](https://mese.webuntis.com/WebUntis/#/basic/login)
+| **Fach Abkürzung** | **Fach**                                 | **Lehrer**                       |
+|--------------------|------------------------------------------|----------------------------------|
+| WLC                | Werkstätte Labor Computer                | Aitenbichler, Klewein, Luttinger |
+| AM                 | Angewandte Mathematik                    | Reichinger, Rumetshofer          |
+| POSE               | Programmieren und Software Engineering   | Klewein, Aitenbichler, Haslinger |
+| D                  | Deutsch                                  | Sternath, Brückner               |
+| NWP                | Naturwissenschaften Physik               | Grubmüller                       |
+| BWMI               | Betriebswirtschaft                       | Arzt                             |
+| SPK                | Soziale und personale Kompetenz          | Keck, Klewein                    |
+| BSPK               | Sport                                    | Jäger                            |
+| RI                 | Religion Islam                           | Atak                             |
+| STSW               | Standardsoftware                         | Traunmüller, Keck                |
+| ETH                | Ethik                                    | Matzinger                        |
+| RK                 | Religion Katholisch                      | Brandstötter                     |
+| CABS               | Computer Architektur und Betriebssysteme | Palitsch-Infanger                |
+| E                  | Englisch                                 | Floarea, Hinterramskogler        |
+| RE                 | Religion Evangelisch                     | Mischitz                         |
+
+Die Gegenstände und Lehrkräfte finden sie auch in [Webunits dem elektronischen Klassenbuch](https://mese.webuntis.com/WebUntis/#/basic/login)
+
+
 
 ## Stundenplan
 
